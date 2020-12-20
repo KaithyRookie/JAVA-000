@@ -1,0 +1,27 @@
+{
+  "properties": [{
+    "name": "spring.scheool.studentIds",
+    "type": "java.lang.String",
+    "description": "School's Student ID",
+    "defaultValue": "1,2,3"
+  },
+    {
+      "name": "spring.scheool.studentNames",
+      "type": "java.lang.String",
+      "description": "School's Student Names",
+      "defaultValue": "student1, student2, student3"
+    },
+    {
+      "name": "spring.scheool.klassIds",
+      "type": "java.lang.String",
+      "description": "School's Klass ID",
+      "defaultValue": "1,2,3"
+    },
+    {
+      "name": "spring.scheool.klassNames",
+      "type": "java.lang.String",
+      "description": "School's Klass Name",
+      "defaultValue": "klass1, klass2, klass3"
+    }
+  ]
+}
